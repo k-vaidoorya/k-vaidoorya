@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Python Project using Machine Learning
+- 🌱 I’m currently learning AI & ML
+- 🤔 I’m looking for help with learning new technologies that fit for the current IT industry
+- 📫 How to reach me: mail me at brilliant.vaidoorya@gmail.com
+- 😄 Pronouns: You can call me as Vaidoorya
+- ⚡ Fun fact: I can help with Frontend, ML and DL
+
 <!--
 **k-vaidoorya/k-vaidoorya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
